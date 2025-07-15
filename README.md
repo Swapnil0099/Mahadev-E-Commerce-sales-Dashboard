@@ -65,12 +65,21 @@ Making recommendations that actually move the needle
 
 ✅ What You’ll Do
 Clean and organize raw sales data (Excel/CSV format).
+
 Analyze patterns like monthly sales trends, category-wise performance, and customer behavior.
+
 Build a visually appealing Power BI dashboard with filters and charts.
+
 Present insights and recommendations as if you were helping a real business.
+
 🎯 Skills You’ll Gain
+
 💡 Data cleaning & transformation
+
 📆 Time series trend analysis
+
 📊 DAX (Data Analysis Expressions) for creating KPIs
+
 📈 Business storytelling with visuals
+
 📥 Importing & handling Excel/CSV datasets
