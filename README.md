@@ -1,4 +1,4 @@
-# Mahadev E-Commerce-sales-Dashboard
+# E-Commerce-sales-Dashboard
 
 🚀 Power BI E-Commerce Sales Dashboard Internship Project – From Raw Data to Revenue-Boosting Insights!
 
